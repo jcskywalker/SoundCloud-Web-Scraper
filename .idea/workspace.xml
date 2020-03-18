@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="af95ff3d-8f77-4bcb-8051-108084c2edf7" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZHobr47REPw5F4sIeNvPWF2xYo" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.toDoOptions" />
+  </component>
+  <component name="RunManager">
+    <configuration name="/PycharmProjects/SoundCloud/scraper.py" type="PythonConfigurationType" factoryName="Python">
+      <module name="SoundCloud" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="af95ff3d-8f77-4bcb-8051-108084c2edf7" name="Default Changelist" comment="" />
+      <created>1584505454631</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584505454631</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="223" y="126" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584512179758">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="223" y="126" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.877@0.23.1440.877" timestamp="1584512179758" />
+    <state x="264" y="74" key="SettingsEditor" timestamp="1584506933036">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="264" y="74" key="SettingsEditor/0.23.1440.877@0.23.1440.877" timestamp="1584506933036" />
+    <state x="409" y="306" key="com.intellij.ide.util.TipDialog" timestamp="1584506679199">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="409" y="306" key="com.intellij.ide.util.TipDialog/0.23.1440.877@0.23.1440.877" timestamp="1584506679199" />
+    <state x="757" y="171" width="683" height="729" key="find.popup" timestamp="1584505756642">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="757" y="171" width="683" height="729" key="find.popup/0.23.1440.877@0.23.1440.877" timestamp="1584505756642" />
+    <state x="511" y="315" width="720" height="295" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1584506796437">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="511" y="315" width="720" height="295" key="org.intellij.images.editor.actions.BackgroundImageDialog/0.23.1440.877@0.23.1440.877" timestamp="1584506796437" />
+  </component>
+</project>
